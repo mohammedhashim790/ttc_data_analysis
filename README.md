@@ -13,6 +13,10 @@ The `stops.csv` data is sourced from the official TTC Open Data portal: [TTC Rou
 * **Interactive Visualization:** Uses `folium` to generate an interactive web map (`index.html`) featuring marker clustering, custom color-coded station markers, and drawn polylines representing the TTC subway routes. 
 * **Export:** Outputs a cleaned, consolidated dataset (`processed_stations.csv`) ready for further spatial or transit analysis.
 
+## Preview
+You can view the interactive map of the generated TTC stations by opening the [index.html](index.html) file locally after running the notebook.
+
+
 ## Tech Stack
 * Python
 * Pandas
