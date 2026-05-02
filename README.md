@@ -3,6 +3,9 @@
 ## Overview
 This project processes and visualizes Toronto Transit Commission (TTC) stop data. It cleans raw transit data (`stops.csv`) by normalizing stop names, identifying core subway stations, and mapping individual platform stops to their respective parent stations based on geographic coordinates (latitude and longitude).
 
+## Data Source
+The `stops.csv` data is sourced from the official TTC Open Data portal: [TTC Routes and Schedules](https://open.toronto.ca/dataset/ttc-routes-and-schedules/).
+
 ## Key Features
 * **Data Cleaning & Normalization:** Maps raw, messy stop names to canonical TTC station names (e.g., standardizing "1 Front St West Union Station" to "Union Station").
 * **Geospatial Grouping:** Groups physically adjacent stops to determine `parent_station` and minimum `stop_id`s.
@@ -22,7 +25,7 @@ This project processes and visualizes Toronto Transit Commission (TTC) stop data
    ```bash
    pip install pandas folium
    ```
-2. Place your raw `stops.csv` data file in the root directory.
+2. Download the `stops.csv` file from the [TTC Open Data portal](https://open.toronto.ca/dataset/ttc-routes-and-schedules/) and place it in the root directory.
 3. Run the Jupyter Notebook (`sample.ipynb`) to process the data and generate the map.
 4. Open the generated `index.html` file in your web browser to view the interactive map.
 5. The cleaned data will be saved as `processed_stations.csv`.

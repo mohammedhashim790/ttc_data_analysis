@@ -24,8 +24,8 @@ index.html
 # Generated dataset
 processed_stations.csv
 
-# Optional: Ignore raw data (uncomment if the file is very large and shouldn't be committed)
-# stops.csv
+# Ignore raw data (downloaded from TTC Open Data)
+stops.csv
 
 # macOS specifics
 .DS_Store
