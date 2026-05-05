@@ -1,4 +1,4 @@
-parent_station_id,parent_station,mode
+id,name,mode
 235,Bay Station,SUBWAY
 246,Union Station,SUBWAY
 317,Bayview Station,SUBWAY
