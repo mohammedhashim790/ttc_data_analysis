@@ -1,0 +1,247 @@
+id,name,mode,stop_lat,stop_lon,line_number,direction
+235,Bay Station,SUBWAY,43.669849,-79.391789,2,Westbound
+235,Bay Station,SUBWAY,43.670149,-79.390089,2,Eastbound
+246,Union Station,SUBWAY,43.645849,-79.379688,1,Northbound
+246,Union Station,SUBWAY,43.645549,-79.381488,1,Northbound
+317,Bayview Station,SUBWAY,43.766872,-79.386703,4,Eastbound
+317,Bayview Station,SUBWAY,43.766951,-79.38673,4,Westbound
+760,College Station,SUBWAY,43.660149,-79.382688,"1,6",Southbound
+760,College Station,SUBWAY,43.661449,-79.383088,"1,6",Northbound
+776,Christie Station,SUBWAY,43.664149,-79.41899,2,Westbound
+776,Christie Station,SUBWAY,43.664449,-79.41729,2,Eastbound
+841,Queen's Park Station,SUBWAY,43.660549,-79.390689,1,Northbound
+841,Queen's Park Station,SUBWAY,43.659249,-79.390289,1,Southbound
+1027,Dupont Station,SUBWAY,43.674949,-79.40709,1,Northbound
+1027,Dupont Station,SUBWAY,43.673749,-79.406689,1,Southbound
+1234,Lawrence Station,SUBWAY,43.726548,-79.40249,1,Northbound
+1234,Lawrence Station,SUBWAY,43.725348,-79.40229,1,Southbound
+1456,Museum Station,SUBWAY,43.667249,-79.393389,"1,5",Northbound
+1456,Museum Station,SUBWAY,43.665949,-79.392989,"1,5",Southbound
+1594,York University,SUBWAY,43.774097,-79.499888,1,Northbound
+1594,York University,SUBWAY,43.774097,-79.499888,1,Southbound
+1677,Yorkdale Station,SUBWAY,43.725248,-79.447692,1,Northbound
+1677,Yorkdale Station,SUBWAY,43.723948,-79.447292,1,Southbound
+2013,Dufferin Station,SUBWAY,43.660849,-79.43389,2,Eastbound
+2013,Dufferin Station,SUBWAY,43.660549,-79.43569,2,Westbound
+2136,TMU Station,SUBWAY,43.655949,-79.380788,1,Southbound
+2136,TMU Station,SUBWAY,43.657149,-79.381188,1,Northbound
+2193,St Patrick Station,SUBWAY,43.654049,-79.387988,1,Southbound
+2193,St Patrick Station,SUBWAY,43.655249,-79.388388,1,Northbound
+3106,Downsview Park Station,SUBWAY,43.753311,-79.478693,1,Southbound
+3106,Downsview Park Station,SUBWAY,43.753311,-79.478693,1,Northbound
+3212,Finch Station,SUBWAY,43.780847,-79.415291,"1,6",
+3212,Finch Station,SUBWAY,43.780147,-79.415692,"1,6",Southbound
+3213,Bloor Station,SUBWAY,43.670049,-79.385389,1,Southbound
+3213,Bloor Station,SUBWAY,43.671044,-79.385918,1,Northbound
+3219,Rosedale Station,SUBWAY,43.676049,-79.388089,1,Southbound
+3219,Rosedale Station,SUBWAY,43.677249,-79.388589,1,Northbound
+3234,King Station,SUBWAY,43.649649,-79.378088,1,Northbound
+3234,King Station,SUBWAY,43.648449,-79.377688,1,Southbound
+3238,Queen Station,SUBWAY,43.653349,-79.379588,1,Northbound
+3238,Queen Station,SUBWAY,43.652149,-79.379188,1,Southbound
+3245,Wellesley Station,SUBWAY,43.664949,-79.383488,1,Southbound
+3245,Wellesley Station,SUBWAY,43.666149,-79.383788,1,Northbound
+3539,Kennedy Station,SUBWAY,43.732569,-79.263049,"2,5",
+3539,Kennedy Station,SUBWAY,43.731978,-79.263574,"2,5",
+3539,Kennedy Station,SUBWAY,43.732149,-79.264785,"2,5",Westbound
+3539,Kennedy Station,SUBWAY,43.731718,-79.263836,"2,5",
+3539,Kennedy Station,SUBWAY,43.732502,-79.263315,"2,5",
+3539,Kennedy Station,SUBWAY,43.732014,-79.263424,"2,5",
+3539,Kennedy Station,SUBWAY,43.732791,-79.26448,"2,5",
+3539,Kennedy Station,SUBWAY,43.732361,-79.26374,"2,5",
+3539,Kennedy Station,SUBWAY,43.732791,-79.26448,"2,5",
+3539,Kennedy Station,SUBWAY,43.732269,-79.264011,"2,5",
+3539,Kennedy Station,SUBWAY,43.732229,-79.263511,"2,5",
+3539,Kennedy Station,SUBWAY,43.732487,-79.263718,"2,5",
+3539,Kennedy Station,SUBWAY,43.732432,-79.263523,"2,5",
+3539,Kennedy Station,SUBWAY,43.731995,-79.262851,"2,5",
+3539,Kennedy Station,SUBWAY,43.732067,-79.263249,"2,5",
+3539,Kennedy Station,SUBWAY,43.731861,-79.262789,"2,5",
+3665,Glencairn Station,SUBWAY,43.708048,-79.440191,1,Southbound
+3665,Glencairn Station,SUBWAY,43.709148,-79.440892,1,Northbound
+4408,Lansdowne Station,SUBWAY,43.659246,-79.442463,2,Eastbound
+4408,Lansdowne Station,SUBWAY,43.659314,-79.442471,2,Westbound
+6858,Osgoode Station,SUBWAY,43.650449,-79.386488,1,Southbound
+6858,Osgoode Station,SUBWAY,43.651749,-79.386888,1,Northbound
+7204,Leslie Station,SUBWAY,43.771248,-79.36679,4,Westbound
+7204,Leslie Station,SUBWAY,43.771348,-79.36499,4,Eastbound
+7275,Sheppard West Station,SUBWAY,43.750204,-79.462781,1,Northbound
+7275,Sheppard West Station,SUBWAY,43.749147,-79.461993,1,Southbound
+7308,Sherbourne Station,SUBWAY,43.672103,-79.376162,2,Eastbound
+7308,Sherbourne Station,SUBWAY,43.672174,-79.376173,2,Westbound
+8953,Summerhill Station,SUBWAY,43.683349,-79.391189,1,Northbound
+8953,Summerhill Station,SUBWAY,43.682049,-79.390789,1,Southbound
+8977,Eglinton Station,SUBWAY,43.70649,-79.399186,"1,5",Westbound
+8977,Eglinton Station,SUBWAY,43.704648,-79.39889,"1,5",Southbound
+8977,Eglinton Station,SUBWAY,43.706548,-79.39839,"1,5",Northbound
+8977,Eglinton Station,SUBWAY,43.70638,-79.398765,"1,5",Eastbound
+8984,North York Centre Station,SUBWAY,43.768547,-79.412592,1,Northbound
+8984,North York Centre Station,SUBWAY,43.767347,-79.412492,1,Southbound
+9053,St Clair Station,SUBWAY,43.688649,-79.393489,1,Northbound
+9053,St Clair Station,SUBWAY,43.687449,-79.393089,1,Southbound
+9065,York Mills Station,SUBWAY,43.743248,-79.405991,1,Southbound
+9065,York Mills Station,SUBWAY,43.744448,-79.406191,1,Northbound
+9126,Don Valley Station,LRT,43.719956,-79.338946,5,Eastbound
+9126,Don Valley Station,LRT,43.720068,-79.33941,5,Westbound
+9149,Finch West Station,SUBWAY,43.764855,-79.491118,"1,6",Northbound
+9149,Finch West Station,SUBWAY,43.764855,-79.491118,"1,6",Southbound
+9149,Finch West Station,SUBWAY,43.763147,-79.490703,"1,6",
+9149,Finch West Station,SUBWAY,43.76334,-79.490789,"1,6",
+9895,Cedarvale Station,SUBWAY,43.700648,-79.436691,"1,5",Northbound
+9895,Cedarvale Station,SUBWAY,43.698988,-79.436377,"1,5",Westbound
+9895,Cedarvale Station,SUBWAY,43.69893,-79.435639,"1,5",Eastbound
+9895,Cedarvale Station,SUBWAY,43.699348,-79.436291,"1,5",Southbound
+11376,Victoria Park Station,SUBWAY,43.694649,-79.289485,2,Westbound
+11376,Victoria Park Station,SUBWAY,43.695149,-79.287885,2,Eastbound
+11780,Keele Station,SUBWAY,43.655349,-79.460391,2,Westbound
+11780,Keele Station,SUBWAY,43.655649,-79.458691,2,Eastbound
+12202,Lawrence West Station,SUBWAY,43.715784,-79.444038,1,Northbound
+12202,Lawrence West Station,SUBWAY,43.714748,-79.443791,1,Southbound
+13677,Bessarion Station,SUBWAY,43.769296,-79.376345,4,Westbound
+13677,Bessarion Station,SUBWAY,43.769202,-79.376312,4,Eastbound
+13731,Warden Station,SUBWAY,43.712149,-79.278785,2,Eastbound
+13731,Warden Station,SUBWAY,43.710949,-79.279085,2,Westbound
+13735,Main Street Station,SUBWAY,43.689249,-79.300686,2,Eastbound
+13735,Main Street Station,SUBWAY,43.688949,-79.302386,2,Westbound
+13737,Woodbine Station,SUBWAY,43.686349,-79.313986,2,Westbound
+13737,Woodbine Station,SUBWAY,43.686649,-79.312286,2,Eastbound
+13739,Coxwell Station,SUBWAY,43.684249,-79.323686,2,Westbound
+13739,Coxwell Station,SUBWAY,43.684549,-79.321986,2,Eastbound
+13741,Greenwood Station,SUBWAY,43.682549,-79.331687,2,Eastbound
+13741,Greenwood Station,SUBWAY,43.682849,-79.329987,2,Westbound
+13743,Donlands Station,SUBWAY,43.680949,-79.339187,2,Westbound
+13743,Donlands Station,SUBWAY,43.681149,-79.337487,2,Eastbound
+13745,Pape Station,SUBWAY,43.679649,-79.345787,2,Westbound
+13745,Pape Station,SUBWAY,43.679949,-79.344087,2,Eastbound
+13747,Chester Station,SUBWAY,43.678241,-79.352502,2,Eastbound
+13747,Chester Station,SUBWAY,43.678351,-79.352537,2,Westbound
+13749,Broadview Station,SUBWAY,43.676349,-79.359588,2,Westbound
+13749,Broadview Station,SUBWAY,43.677049,-79.358088,2,Eastbound
+13751,Castle Frank Station,SUBWAY,43.673549,-79.369788,2,Westbound
+13751,Castle Frank Station,SUBWAY,43.674049,-79.368088,2,Eastbound
+13755,Yonge Station,SUBWAY,43.671049,-79.386789,"1,2,4",Westbound
+13755,Yonge Station,SUBWAY,43.670997,-79.385956,"1,2,4",Eastbound
+13759,Bathurst Station,SUBWAY,43.665649,-79.41229,2,Westbound
+13759,Bathurst Station,SUBWAY,43.665949,-79.410589,2,Eastbound
+13763,Ossington Station,SUBWAY,43.662049,-79.42789,2,Westbound
+13763,Ossington Station,SUBWAY,43.662349,-79.42609,2,Eastbound
+13769,Dundas West Station,SUBWAY,43.657449,-79.451091,2,Eastbound
+13769,Dundas West Station,SUBWAY,43.657149,-79.452791,2,Westbound
+13773,High Park Station,SUBWAY,43.653849,-79.466991,2,Eastbound
+13773,High Park Station,SUBWAY,43.653549,-79.468691,2,Westbound
+13775,Runnymede Station,SUBWAY,43.652049,-79.474992,2,Eastbound
+13775,Runnymede Station,SUBWAY,43.651749,-79.476692,2,Westbound
+13777,Jane Station,SUBWAY,43.649749,-79.484592,2,Westbound
+13777,Jane Station,SUBWAY,43.650149,-79.482892,2,Eastbound
+13779,Old Mill Station,SUBWAY,43.649448,-79.493392,2,Eastbound
+13779,Old Mill Station,SUBWAY,43.650048,-79.494892,2,Westbound
+13781,Royal York Station,SUBWAY,43.648548,-79.508693,2,Eastbound
+13781,Royal York Station,SUBWAY,43.648348,-79.510493,2,Westbound
+13783,Islington Station,SUBWAY,43.645248,-79.524994,2,Westbound
+13783,Islington Station,SUBWAY,43.645548,-79.523293,2,Eastbound
+13785,Kipling Station,SUBWAY,43.637392,-79.535892,2,
+13785,Kipling Station,SUBWAY,43.637648,-79.535694,2,Eastbound
+13797,Davisville Station,SUBWAY,43.697048,-79.39689,1,Southbound
+13797,Davisville Station,SUBWAY,43.698248,-79.39729,1,Northbound
+13817,St Andrew Station,SUBWAY,43.648249,-79.385088,1,Northbound
+13817,St Andrew Station,SUBWAY,43.647049,-79.384488,1,Southbound
+13829,St Clair West Station,SUBWAY,43.685148,-79.41589,1,Northbound
+13829,St Clair West Station,SUBWAY,43.683948,-79.41539,1,Southbound
+13839,Wilson Station,SUBWAY,43.735048,-79.450192,1,Northbound
+13839,Wilson Station,SUBWAY,43.733848,-79.449892,1,Southbound
+13851,Spadina Station,SUBWAY,43.667249,-79.403889,"1,2",Eastbound
+13851,Spadina Station,SUBWAY,43.670249,-79.405189,"1,2",Northbound
+13851,Spadina Station,SUBWAY,43.669049,-79.404789,"1,2",Southbound
+13851,Spadina Station,SUBWAY,43.666949,-79.405689,"1,2",Westbound
+13855,St George Station,SUBWAY,43.668249,-79.399689,"1,2",Westbound
+13855,St George Station,SUBWAY,43.668549,-79.397989,"1,2",Eastbound
+13855,St George Station,SUBWAY,43.668249,-79.399689,"1,2",Northbound
+13855,St George Station,SUBWAY,43.668549,-79.397889,"1,2",Southbound
+13859,Sheppard-Yonge Station,SUBWAY,43.761648,-79.410891,"1,4",Northbound
+13859,Sheppard-Yonge Station,SUBWAY,43.760348,-79.410691,"1,4",Southbound
+13859,Sheppard-Yonge Station,SUBWAY,43.761648,-79.410091,"1,4",
+13859,Sheppard-Yonge Station,SUBWAY,43.761494,-79.410394,"1,4",Eastbound
+14109,Don Mills Station,SUBWAY,43.775547,-79.346584,4,
+14109,Don Mills Station,SUBWAY,43.775248,-79.346189,4,Westbound
+15571,Pioneer Village Station,SUBWAY,43.776741,-79.509334,1,Northbound
+15571,Pioneer Village Station,SUBWAY,43.77675,-79.509372,1,Southbound
+15660,Highway 407 Station,SUBWAY,43.783359,-79.523454,1,Southbound
+15660,Highway 407 Station,SUBWAY,43.783359,-79.523454,1,Northbound
+15662,Vaughan Metropolitan Centre Station,SUBWAY,43.794021,-79.527906,1,Southbound
+15662,Vaughan Metropolitan Centre Station,SUBWAY,43.794021,-79.527906,1,
+16067,Mount Dennis Station,LRT,43.688025,-79.485789,5,
+16067,Mount Dennis Station,LRT,43.688025,-79.485789,5,
+16071,Avenue Station,LRT,43.704902,-79.409062,5,Westbound
+16071,Avenue Station,LRT,43.704723,-79.408728,5,Eastbound
+16075,Laird Station,LRT,43.713199,-79.364733,5,Eastbound
+16075,Laird Station,LRT,43.713339,-79.365328,5,Westbound
+16079,Sloane Station,LRT,43.726003,-79.313108,5,Westbound
+16079,Sloane Station,LRT,43.725837,-79.312252,5,Eastbound
+16083,Caledonia Station,LRT,43.692372,-79.465699,5,Westbound
+16083,Caledonia Station,LRT,43.692324,-79.465079,5,Eastbound
+16085,Golden Mile Station,LRT,43.727631,-79.288901,5,Westbound
+16085,Golden Mile Station,LRT,43.7281,-79.286352,5,Eastbound
+16202,Keelesdale Station,LRT,43.690613,-79.474819,5,Westbound
+16202,Keelesdale Station,LRT,43.690413,-79.474533,5,Eastbound
+16204,Fairbank Station,LRT,43.695744,-79.44926,5,Eastbound
+16204,Fairbank Station,LRT,43.69579,-79.449625,5,Westbound
+16206,Oakwood Station,LRT,43.697429,-79.442726,5,Eastbound
+16206,Oakwood Station,LRT,43.697542,-79.44319,5,Westbound
+16208,Forest Hill Station,LRT,43.701136,-79.425086,5,Eastbound
+16208,Forest Hill Station,LRT,43.701262,-79.425518,5,Westbound
+16210,Chaplin Station,LRT,43.702913,-79.417098,5,Eastbound
+16210,Chaplin Station,LRT,43.703009,-79.417709,5,Westbound
+16212,Mount Pleasant Station,LRT,43.708503,-79.390329,5,Eastbound
+16212,Mount Pleasant Station,LRT,43.708666,-79.390542,5,Westbound
+16214,Leaside Station,LRT,43.710986,-79.376902,5,Westbound
+16214,Leaside Station,LRT,43.710767,-79.376475,5,Eastbound
+16216,Sunnybrook Park Station,LRT,43.717225,-79.349549,5,Westbound
+16216,Sunnybrook Park Station,LRT,43.717392,-79.34872,5,Eastbound
+16218,Aga Khan Park & Museum Station,LRT,43.722496,-79.332284,5,Eastbound
+16218,Aga Khan Park & Museum Station,LRT,43.722342,-79.3331,5,Westbound
+16220,Wynford Station,LRT,43.724139,-79.326236,5,Eastbound
+16220,Wynford Station,LRT,43.724027,-79.327084,5,Westbound
+16222,O'Connor Station,LRT,43.72482,-79.301367,5,Eastbound
+16222,O'Connor Station,LRT,43.724831,-79.302203,5,Westbound
+16224,Pharmacy Station,LRT,43.725881,-79.296325,5,Eastbound
+16224,Pharmacy Station,LRT,43.7258,-79.297159,5,Westbound
+16226,Hakimi Lebovic Station,LRT,43.727226,-79.290298,5,Eastbound
+16226,Hakimi Lebovic Station,LRT,43.726768,-79.292811,5,Westbound
+16228,Birchmount Station,LRT,43.730139,-79.277472,5,Westbound
+16228,Birchmount Station,LRT,43.730223,-79.276636,5,Eastbound
+16230,Ionview Station,LRT,43.731257,-79.272512,5,Westbound
+16230,Ionview Station,LRT,43.731366,-79.271673,5,Eastbound
+16289,Humber College Station,LRT,43.729905,-79.601445,6,
+16289,Humber College Station,LRT,43.729891,-79.601616,6,
+16291,Westmore Station,LRT,43.734701,-79.60071,6,Eastbound
+16291,Westmore Station,LRT,43.734799,-79.600708,6,Westbound
+16293,Martin Grove Station,LRT,43.736708,-79.591916,6,Eastbound
+16293,Martin Grove Station,LRT,43.736771,-79.591921,6,Westbound
+16295,Albion Station,LRT,43.740937,-79.589332,6,Westbound
+16295,Albion Station,LRT,43.741404,-79.589034,6,Eastbound
+16297,Stevenson Station,LRT,43.743185,-79.586943,6,Eastbound
+16297,Stevenson Station,LRT,43.743253,-79.586955,6,Westbound
+16299,Mount Olive Station,LRT,43.743335,-79.581793,6,Westbound
+16299,Mount Olive Station,LRT,43.74327,-79.58177,6,Eastbound
+16301,Rowntree Mills Station,LRT,43.746257,-79.568861,6,Westbound
+16301,Rowntree Mills Station,LRT,43.746365,-79.568298,6,Eastbound
+16303,Pearldale Station,LRT,43.747762,-79.562501,6,Westbound
+16303,Pearldale Station,LRT,43.747724,-79.562493,6,Eastbound
+16305,Duncanwoods Station,LRT,43.748802,-79.557768,6,Westbound
+16305,Duncanwoods Station,LRT,43.748853,-79.557338,6,Eastbound
+16307,Milvan Rumike Station,LRT,43.749999,-79.552029,6,Eastbound
+16307,Milvan Rumike Station,LRT,43.749943,-79.552589,6,Westbound
+16309,Emery Station,LRT,43.752088,-79.542106,6,Eastbound
+16309,Emery Station,LRT,43.752073,-79.542678,6,Westbound
+16311,Signet Arrow Station,LRT,43.753302,-79.53593,6,Eastbound
+16311,Signet Arrow Station,LRT,43.753283,-79.536521,6,Westbound
+16313,Norfinch Oakdale Station,LRT,43.755953,-79.524004,6,Eastbound
+16313,Norfinch Oakdale Station,LRT,43.755933,-79.524499,6,Westbound
+16315,Jane and Finch Station,LRT,43.757205,-79.517421,6,Eastbound
+16315,Jane and Finch Station,LRT,43.757291,-79.518004,6,Westbound
+16317,Driftwood Station,LRT,43.758068,-79.51316,6,Eastbound
+16317,Driftwood Station,LRT,43.758068,-79.513549,6,Westbound
+16319,Tobermory Station,LRT,43.759309,-79.507742,6,Eastbound
+16319,Tobermory Station,LRT,43.759356,-79.508094,6,Westbound
+16321,Sentinel Station,LRT,43.761076,-79.500232,6,Westbound
+16321,Sentinel Station,LRT,43.761085,-79.499846,6,Eastbound
